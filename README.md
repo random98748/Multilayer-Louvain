@@ -85,5 +85,5 @@ This repository contains the code for our proposed "Multilayer Louvain" algorith
         community2_vertices
         
         ...
-        
+    + Note: The equivalent MATLAB codes for synthetic network generation are shared as generate_networks.m and lfr_multilayer_v3.m.
 
